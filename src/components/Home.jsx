@@ -30,7 +30,7 @@ const Home = () => {
         </a>
         
         <a 
-          href="C:\Users\Pratham\OneDrive\Documents\Desktop\Myporfolio\myFolio\src\assets\Pratham_resume_code.pdf" 
+          href="/Pratham_resume_code.pdf" 
           target="_blank" 
           rel="noopener noreferrer"
           className='w-full sm:w-auto'
