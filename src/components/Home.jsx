@@ -30,7 +30,7 @@ const Home = () => {
         </a>
 
         <a
-          href={`${process.env.PUBLIC_URL}/Pratham_resume_code.pdf`}
+         href="/MYFOLIO/Pratham_resume_code.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className='w-full sm:w-auto'
